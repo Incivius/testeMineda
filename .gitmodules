@@ -1,0 +1,6 @@
+[submodule "springboot3lab4"]
+	path = springboot3lab4
+	url = https://github.com/mineda/springboot3lab4.git
+[submodule "vue3lab4"]
+	path = vue3lab4
+	url = https://github.com/mineda/vue3lab4.git
